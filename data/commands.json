@@ -1,0 +1,1 @@
+[null,{"name":"test","permissions":"NONE","restriction":"2","actions":[{"channel":"0","varName":"","message":"``Running Weather Command Test...``","storage":"0","varName2":"","name":"Send Message"},{"time":"5","measurement":"1","name":"Wait"},{"channel":"0","varName":"","message":"!wthr-winter","storage":"0","varName2":"","name":"Send Message"}]}]
